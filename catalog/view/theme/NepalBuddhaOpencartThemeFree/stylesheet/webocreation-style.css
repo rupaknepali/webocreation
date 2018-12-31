@@ -165,6 +165,7 @@ input[type="search"].form-control,
 input[type="tel"].form-control,
 input[type="color"].form-control {
     font-size: 12px;
+    height: 35px;
 }
 
 .input-group input,
