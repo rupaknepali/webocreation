@@ -14,6 +14,7 @@ Following modules are directly integrated into the theme above:
 **[Show full width OpenCart module free](https://webocreation.com/blog/opencart-free-extension-to-add-full-width-position-in-layout)**
 **[OpenCart News Ticker module free](https://webocreation.com/blog/opencart-news-ticker-module-free-download-opencart-version-3-0-3-1)**
 **[OpenCart Featured Category module free](https://webocreation.com/blog/opencart-show-selected-categories-as-featured-module-free)**
+**[OpenCart Youtube Autoplay module free](https://webocreation.com/blog/youtube-video-to-show-with-autoplay-free-opencart-module-or-extensions/)**
 
 ## Following are the developer tutorials which helps to understand code easily:
 
