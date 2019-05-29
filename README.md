@@ -9,12 +9,18 @@ Free Opencart 3 theme named "NepalBuddhaOpencartThemeFree"
 **[Demo](https://webocreation.com/nepalbuddha/)**
 
 Following modules are directly integrated into the theme above:
-**[Featured categories OpenCart module free](https://webocreation.com/blog/opencart-show-selected-categories-as-featured-module-free)**
 
-**[Show full width OpenCart module free](https://webocreation.com/blog/opencart-free-extension-to-add-full-width-position-in-layout)**
-**[OpenCart News Ticker module free](https://webocreation.com/blog/opencart-news-ticker-module-free-download-opencart-version-3-0-3-1)**
-**[OpenCart Featured Category module free](https://webocreation.com/blog/opencart-show-selected-categories-as-featured-module-free)**
-**[OpenCart Youtube Autoplay module free](https://webocreation.com/blog/youtube-video-to-show-with-autoplay-free-opencart-module-or-extensions/)**
+- **[Featured categories OpenCart module free](https://webocreation.com/blog/opencart-show-selected-categories-as-featured-module-free)**
+
+- **[Show full width OpenCart module free](https://webocreation.com/blog/opencart-free-extension-to-add-full-width-position-in-layout)**
+
+- **[OpenCart News Ticker module free](https://webocreation.com/blog/opencart-news-ticker-module-free-download-opencart-version-3-0-3-1)**
+
+- **[OpenCart Featured Category module free](https://webocreation.com/blog/opencart-show-selected-categories-as-featured-module-free)**
+
+- **[OpenCart Youtube Autoplay module free](https://webocreation.com/blog/youtube-video-to-show-with-autoplay-free-opencart-module-or-extensions/)**
+
+- **[“What People are Buying right now?” Opencart Module for free](https://webocreation.com/blog/people-buying-opencart-module-free/)**
 
 ## Following are the developer tutorials which helps to understand code easily:
 
